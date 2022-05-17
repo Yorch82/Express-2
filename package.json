@@ -1,0 +1,16 @@
+{
+  "name": "express-ej2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "e2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node e2.js",
+    "dev":"nodemon e2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
